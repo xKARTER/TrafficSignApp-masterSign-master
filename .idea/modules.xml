@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\karter080\TrafficSignApp-master-master\TrafficSignApp-master-master\TrafficSignApp-master.iml" filepath="D:\karter080\TrafficSignApp-master-master\TrafficSignApp-master-master\TrafficSignApp-master.iml" />
+      <module fileurl="file://D:\karter080\TrafficSignApp-masterSign-master\TrafficSignApp-masterSign-master\TrafficSignApp-master-master.iml" filepath="D:\karter080\TrafficSignApp-masterSign-master\TrafficSignApp-masterSign-master\TrafficSignApp-master-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficSignApp-masterSign-master.iml" filepath="$PROJECT_DIR$/TrafficSignApp-masterSign-master.iml" />
+      <module fileurl="file://C:\Users\37-SDU\Downloads\TrafficSignApp-master\TrafficSignApp-master\TrafficeSignApp.iml" filepath="C:\Users\37-SDU\Downloads\TrafficSignApp-master\TrafficSignApp-master\TrafficeSignApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\karter080\TrafficSignApp-masterSign-master\TrafficSignApp-masterSign-master\app\app.iml" filepath="D:\karter080\TrafficSignApp-masterSign-master\TrafficSignApp-masterSign-master\app\app.iml" />
+      <module fileurl="file://C:\Users\37-SDU\Downloads\TrafficSignApp-master\TrafficSignApp-master\app\app.iml" filepath="C:\Users\37-SDU\Downloads\TrafficSignApp-master\TrafficSignApp-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
